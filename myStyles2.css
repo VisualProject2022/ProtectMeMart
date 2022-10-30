@@ -1,0 +1,1540 @@
+
+
+body{
+    background-color: #fff000;
+    display: flex;
+    justify-content: center;
+}
+
+#first{
+    position: absolute;
+}
+
+
+
+.firstA{
+    width: 20vmax;
+    height: 15.8vmax;
+
+    float: left;
+    position: relative;
+}
+
+.safe01{
+    width: 20vmax;
+}
+
+
+.safe02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.firstA:hover .safe02{
+    display: block;
+}
+
+
+
+.firstB{
+    width: 20vmax;
+    height: 15.8vmax;
+
+    float: left;
+    position: relative;
+}
+
+.alone01{
+    width: 20vmax;
+}
+
+
+.alone02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.firstB:hover .alone02{
+    display: block;
+}
+
+
+.firstC{
+    width: 20vmax;
+    height: 15.8vmax;
+
+    float: left;
+    position: relative;
+}
+
+
+.white01{
+    width: 20vmax;
+}
+
+
+.white02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.firstC:hover .white02{
+    display: block;
+}
+
+
+.firstD{
+    width: 20vmax;
+    height: 15.8vmax;
+
+    float: left;
+    position: relative;
+}
+
+
+.rest01{
+    width: 20vmax;
+}
+
+
+.rest02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.firstD:hover .rest02{
+    display: block;
+}
+
+
+
+#second{
+    position: absolute;
+    margin-top: 15.8vmax;
+}
+
+
+
+.secondA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.youMe01{
+    width: 20vmax;
+}
+
+
+.youMe02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.secondA:hover .youMe02{
+    display: block;
+}
+
+
+
+.secondB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.payBack01{
+    width: 20vmax;
+}
+
+
+.payBack02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.secondB:hover .payBack02{
+    display: block;
+}
+
+
+.secondC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.run01{
+    width: 20vmax;
+}
+
+
+.run02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.secondC:hover .run02{
+    display: block;
+}
+
+
+.secondD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.magic01{
+    width: 20vmax;
+}
+
+
+.magic02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.secondD:hover .magic02{
+    display: block;
+}
+
+
+
+#third{
+    position: absolute;
+    margin-top: 31.6vmax;
+}
+
+
+
+.thirdA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.reading01{
+    width: 20vmax;
+}
+
+
+.reading02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.thirdA:hover .reading02{
+    display: block;
+}
+
+
+
+.thirdB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.noReset01{
+    width: 20vmax;
+}
+
+
+.noReset02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.thirdB:hover .noReset02{
+    display: block;
+}
+
+
+.thirdC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.romance01{
+    width: 20vmax;
+}
+
+
+.romance02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.thirdC:hover .romance02{
+    display: block;
+}
+
+
+.thirdD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.stretch01{
+    width: 20vmax;
+}
+
+
+.stretch02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.thirdD:hover .stretch02{
+    display: block;
+}
+
+
+
+#forth{
+    position: absolute;
+    margin-top: 47.4vmax;
+}
+
+
+
+.forthA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.cyber01{
+    width: 20vmax;
+}
+
+
+.cyber02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.forthA:hover .cyber02{
+    display: block;
+}
+
+
+
+.forthB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.cant01{
+    width: 20vmax;
+}
+
+
+.cant02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.forthB:hover .cant02{
+    display: block;
+}
+
+
+.forthC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.seoul01{
+    width: 20vmax;
+}
+
+
+.seoul02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.forthC:hover .seoul02{
+    display: block;
+}
+
+
+.forthD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.narciss01{
+    width: 20vmax;
+}
+
+
+.narciss02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.forthD:hover .narciss02{
+    display: block;
+}
+
+
+
+#fifth{
+    position: absolute;
+    margin-top: 63.2vmax;
+}
+
+
+
+.fifthA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.gaslight01{
+    width: 20vmax;
+}
+
+
+.gaslight02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.fifthA:hover .gaslight02{
+    display: block;
+}
+
+
+
+.fifthB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.yellow01{
+    width: 20vmax;
+}
+
+
+.yellow02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.fifthB:hover .yellow02{
+    display: block;
+}
+
+
+.fifthC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.house01{
+    width: 20vmax;
+}
+
+
+.house02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.fifthC:hover .house02{
+    display: block;
+}
+
+
+.fifthD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.pock01{
+    width: 20vmax;
+}
+
+
+.pock02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.fifthD:hover .pock02{
+    display: block;
+}
+
+
+#sixth{
+    position: absolute;
+    margin-top: 79vmax;
+}
+
+
+
+.sixthA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.comeOut01{
+    width: 20vmax;
+}
+
+
+.comeOut02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.sixthA:hover .comeOut02{
+    display: block;
+}
+
+
+
+.sixthB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.meaLog01{
+    width: 20vmax;
+}
+
+
+.meaLog02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.sixthB:hover .meaLog02{
+    display: block;
+}
+
+
+.sixthC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.A01{
+    width: 20vmax;
+}
+
+
+.A02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.sixthC:hover .A02{
+    display: block;
+}
+
+
+.sixthD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.bus01{
+    width: 20vmax;
+}
+
+
+.bus02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.sixthD:hover .bus02{
+    display: block;
+}
+
+
+#seventh{
+    position: absolute;
+    margin-top: 94.8vmax;
+}
+
+
+
+.seventhA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.power01{
+    width: 20vmax;
+}
+
+
+.power02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.seventhA:hover .power02{
+    display: block;
+}
+
+
+
+.seventhB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.gender01{
+    width: 20vmax;
+}
+
+
+.gender02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.seventhB:hover .gender02{
+    display: block;
+}
+
+
+.seventhC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.never01{
+    width: 20vmax;
+}
+
+
+.never02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.seventhC:hover .never02{
+    display: block;
+}
+
+
+.seventhD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.crayon01{
+    width: 20vmax;
+}
+
+
+.crayon02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.seventhD:hover .crayon02{
+    display: block;
+}
+
+
+
+#eighth{
+    position: absolute;
+    margin-top: 110.6vmax;
+}
+
+
+
+.eighthA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.x01{
+    width: 20vmax;
+}
+
+
+.x02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.eighthA:hover .x02{
+    display: block;
+}
+
+
+
+.eighthB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.circle01{
+    width: 20vmax;
+}
+
+
+.circle02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.eighthB:hover .circle02{
+    display: block;
+}
+
+
+.eighthC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.breaking01{
+    width: 20vmax;
+}
+
+
+.breaking02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.eighthC:hover .breaking02{
+    display: block;
+}
+
+
+.eighthD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.ready01{
+    width: 20vmax;
+}
+
+
+.ready02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.eighthD:hover .ready02{
+    display: block;
+}
+
+
+
+
+#ninth{
+    position: absolute;
+    margin-top: 126.4vmax;
+}
+
+
+
+.ninthA{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.new01{
+    width: 20vmax;
+}
+
+
+.new02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.ninthA:hover .new02{
+    display: block;
+}
+
+
+
+.ninthB{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+.pregnant01{
+    width: 20vmax;
+}
+
+
+.pregnant02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.ninthB:hover .pregnant02{
+    display: block;
+}
+
+
+.ninthC{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.bet01{
+    width: 20vmax;
+}
+
+
+.bet02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.ninthC:hover .bet02{
+    display: block;
+}
+
+
+.ninthD{
+    width: 20vmax;
+    height: 15.8vmax;
+    float: left;
+    position: relative;
+}
+
+
+.logo01{
+    width: 20vmax;
+}
+
+
+.logo02{
+
+    position: absolute;
+    display: none;
+    width: 20vmax;
+    top: -0.001vmax;
+}
+
+.ninthD:hover .logo02{
+    display: block;
+}
+
+@media (max-width: 480px)
+{
+
+    #first{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 10vmax;
+    }
+
+    .firstA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .safe01{
+        width: 11vmax;
+    }
+    
+    .safe02{
+        width: 11vmax;
+    }
+    
+    .firstB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .alone01{
+        width: 11vmax;
+    }
+    
+    .alone02{
+        width: 11vmax;
+    }
+
+    .firstC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .white01{
+        width: 11vmax;
+    }
+    
+    .white02{
+        width: 11vmax;
+    }
+    
+    .firstD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .rest01{
+        width: 11vmax;
+    }
+    
+    .rest02{
+        width: 11vmax;
+    }
+
+    #second{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 18.7vmax;
+    }
+
+    .secondA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .youMe01{
+        width: 11vmax;
+    }
+    
+    .youMe02{
+        width: 11vmax;
+    }
+    
+    .secondB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .payBack01{
+        width: 11vmax;
+    }
+    
+    .payBack02{
+        width: 11vmax;
+    }
+
+    .secondC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .run01{
+        width: 11vmax;
+    }
+    
+    .run02{
+        width: 11vmax;
+    }
+    
+    .secondD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .magic01{
+        width: 11vmax;
+    }
+    
+    .magic02{
+        width: 11vmax;
+    }
+
+    #third{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 27.4vmax;
+    }
+
+    .thirdA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .reading01{
+        width: 11vmax;
+    }
+    
+    .reading02{
+        width: 11vmax;
+    }
+    
+    .thirdB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .noReset01{
+        width: 11vmax;
+    }
+    
+    .noReset02{
+        width: 11vmax;
+    }
+
+    .thirdC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .romance01{
+        width: 11vmax;
+    }
+    
+    .romance02{
+        width: 11vmax;
+    }
+    
+    .thirdD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .stretch01{
+        width: 11vmax;
+    }
+    
+    .stretch02{
+        width: 11vmax;
+    }
+
+    #forth{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 36.1vmax;
+    }
+
+    .forthA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .cyber01{
+        width: 11vmax;
+    }
+    
+    .cyber01{
+        width: 11vmax;
+    }
+    
+    .forthB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .cant01{
+        width: 11vmax;
+    }
+    
+    .cant02{
+        width: 11vmax;
+    }
+
+    .forthC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .seoul01{
+        width: 11vmax;
+    }
+    
+    .seoul02{
+        width: 11vmax;
+    }
+    
+    .forthD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .narciss01{
+        width: 11vmax;
+    }
+    
+    .narciss02{
+        width: 11vmax;
+    }
+
+    #fifth{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 44.8vmax;
+    }
+
+    .fifthA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .gaslight01{
+        width: 11vmax;
+    }
+    
+    .gaslight02{
+        width: 11vmax;
+    }
+    
+    .fifthB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .yellow01{
+        width: 11vmax;
+    }
+    
+    .yellow02{
+        width: 11vmax;
+    }
+
+    .fifthC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .house01{
+        width: 11vmax;
+    }
+    
+    .house02{
+        width: 11vmax;
+    }
+    
+    .fifthD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .pock01{
+        width: 11vmax;
+    }
+    
+    .pock02{
+        width: 11vmax;
+    }
+
+    #sixth{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 53.5vmax;
+    }
+
+    .sixthA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .comeOut01{
+        width: 11vmax;
+    }
+    
+    .comeOut02{
+        width: 11vmax;
+    }
+    
+    .sixthB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .meaLog01{
+        width: 11vmax;
+    }
+    
+    .meaLog02{
+        width: 11vmax;
+    }
+
+    .sixthC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .A01{
+        width: 11vmax;
+    }
+    
+    .A02{
+        width: 11vmax;
+    }
+    
+    .sixthD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .bus01{
+        width: 11vmax;
+    }
+    
+    .bus02{
+        width: 11vmax;
+    }
+
+    #seventh{
+        height:8.7vmax;
+        width: 44vmax;
+        margin-top: 62.2vmax;
+    }
+
+    .seventhA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .power01{
+        width: 11vmax;
+    }
+    
+    .power02{
+        width: 11vmax;
+    }
+    
+    .seventhB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .gender01{
+        width: 11vmax;
+    }
+    
+    .gender02{
+        width: 11vmax;
+    }
+
+    .seventhC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .never01{
+        width: 11vmax;
+    }
+    
+    .never02{
+        width: 11vmax;
+    }
+    
+    .seventhD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .crayon01{
+        width: 11vmax;
+    }
+    
+    .crayon02{
+        width: 11vmax;
+    }
+
+    #eighth{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 70.9vmax;
+    }
+
+    .eighthA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .x01{
+        width: 11vmax;
+    }
+    
+    .x02{
+        width: 11vmax;
+    }
+    
+    .eighthB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .circle01{
+        width: 11vmax;
+    }
+    
+    .circle02{
+        width: 11vmax;
+    }
+
+    .eighthC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .breaking01{
+        width: 11vmax;
+    }
+    
+    .breaking02{
+        width: 11vmax;
+    }
+    
+    .eighthD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .ready01{
+        width: 11vmax;
+    }
+    
+    .ready02{
+        width: 11vmax;
+    }
+
+    #ninth{
+        height:9.5vmax;
+        width: 44vmax;
+        margin-top: 79.6vmax;
+    }
+
+    .ninthA{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .new01{
+        width: 11vmax;
+    }
+    
+    .new02{
+        width: 11vmax;
+    }
+    
+    .ninthB{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .pregnant01{
+        width: 11vmax;
+    }
+    
+    .pregnant02{
+        width: 11vmax;
+    }
+
+    .ninthC{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .bet01{
+        width: 11vmax;
+    }
+    
+    .bet02{
+        width: 11vmax;
+    }
+    
+    .ninthD{
+        width: 11vmax;
+        height: 9.5vmax;
+    }
+
+    .logo01{
+        width: 11vmax;
+    }
+    
+    .logo02{
+        width: 11vmax;
+    }
+}

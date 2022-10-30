@@ -1,0 +1,373 @@
+
+body{
+    margin: 0px;
+    background-color: #000000;
+}
+
+.back{
+    width: 100vmax;
+    height: 57.81vmax;
+    background-color:#d6d6d6;
+    position: relative;
+}
+
+.backImage{
+    width: 100vmax;
+    height: 57.81vmax;
+}
+
+.photo{
+    position: absolute;
+    width: 66.75vmax;
+    height: 47vmax;
+    margin-top: -54.2vmax;
+    margin-left: 3.1vmax;
+    border: solid black 1px;
+    overflow: hidden;
+}
+
+#photoSlide{
+    height: 47vmax;
+    display: flex;
+    position: absolute;
+    transition-duration: 0.5s;
+}
+
+.photo img{
+    width: 66.75vmax;
+    height: 47vmax;
+}
+
+#leftArrow{
+    width: 1vmax;
+    height: 3vmax;
+    position: absolute;
+
+    margin-top: 22vmax;
+    margin-left: 1vmax;
+}
+
+#leftArrow img{
+    width: 100%;
+    height: 100%;
+}
+
+#rightArrow{
+    width: 1vmax;
+    height: 3vmax;
+    position: absolute;
+    margin-left: 64.8vmax;
+    margin-top: 22vmax;
+}
+
+#rightArrow img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.logo{
+    position: absolute;
+    width: 18.18vmax;
+    height: 10.2vmax;
+    background-color: rgb(255, 255, 255);
+    margin-top: -54.2vmax;
+    margin-left: 78.64vmax;
+    border: solid black 1px;
+}
+
+.logoImg{
+    width: 16.5vmax;
+    padding-top: 2.2vmax;
+    padding-left: 0.8vmax;
+    transition: all 0.1s linear;
+}
+
+.logoImg:hover{
+    transform: scale(1.03);
+}
+
+.cell{
+    position: absolute;
+    width: 27vmax;
+    height: 35.15vmax;
+    background-color: rgb(255, 255, 255);
+    margin-top: -44vmax;
+    margin-left: 69.94vmax;
+}
+
+.cellImg{
+    width: 27vmax;
+}
+
+
+button{
+    width: 100px;
+    height: 30px;
+    border: 0;
+    outline: 0;
+}
+
+.pay{
+    width: 7vmax;
+    transition: all 0.1s linear;
+    margin-top: 0.7vmax;
+    margin-left: 0.2vmax;
+}
+
+.pay:hover{
+    transform: scale(1.1);
+}
+
+
+#btn_toggle{
+    font-size:2vmax;
+    background-color:#000000;
+    color:#fff;
+    font-weight:bold;
+    width: 8.67vmax;
+    height: 10.2vmax;
+    position: absolute;
+    margin-top: -54.2vmax;
+    margin-left: 69.96vmax;
+}
+
+
+#receipt{
+    font-size:14px;
+    color: #666;
+    width: 21.5vmax;
+    position: absolute;
+    margin-top: -56.6vmax;
+    margin-left: 39vmax;
+    background-color: rgb(255, 255, 255);
+    border: solid black 1px;
+
+}
+
+.re{
+    width: 21.5vmax;
+}
+
+
+.other{
+    position: absolute;
+    width: 27.03vmax;
+    height: 4.95vmax;
+    margin-top: -12vmax;
+    margin-left: 69.9vmax;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.otherImg{
+    width: 26.7vmax;
+    margin-top: 0.5vmax;
+    transition: all 0.1s linear;
+    margin-left: 0.2vmax;
+}
+
+.otherImg:hover{
+    transform: scale(1.02);
+}
+
+
+
+
+@media (max-width: 480px)
+{
+    body{
+        margin: 0px;
+        background-color: #ffffff;
+    }
+    
+
+    .backImage{
+        width: 100vmax;
+        height: 57.81vmax;
+        display: none;
+    }
+
+    .back{
+        width: 46vmax;
+        height: 100vmax;
+        background-color:#ffffff;
+        position: relative;
+    }
+
+    #receipt{
+        font-size:14px;
+        color: #666;
+        width: 37vmax;
+        position: absolute;
+        margin-top: 0vmax;
+        margin-left: 39vmax;
+        background-color: rgb(255, 255, 255);
+        border: solid black 1px;
+    
+    }
+    
+    .re{
+        width: 37vmax;
+    }
+
+    .photo{
+        position: absolute;
+        width: 43vmax;
+        height: 30vmax;
+        margin-top: -98.5vmax;
+        margin-left: 1.4vmax;
+        border: solid black 1px;
+        overflow: hidden;
+    }
+    
+    #photoSlide{
+        width: 40vmax;
+        display: flex;
+        position: absolute;
+        transition-duration: 0.5s;
+    }
+
+    .photo img{
+        width: 64.45vmax;
+        height: 30.4vmax;
+    }
+
+    #leftArrow{
+        width: 1vmax;
+        height: 3vmax;
+        position: absolute;
+    
+        margin-top: 13vmax;
+        margin-left: 1vmax;
+    }
+    
+    #leftArrow img{
+        width: 100%;
+        height: 100%;
+    }
+    
+    #rightArrow{
+        width: 1vmax;
+        height: 3vmax;
+        position: absolute;
+        margin-left: 41.2vmax;
+        margin-top: 13vmax;
+    }
+    
+    #rightArrow img{
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .logo{
+        position: absolute;
+        width: 29vmax;
+        height: 13.89vmax;
+        background-color: rgb(255, 255, 255);
+        margin-top: -67vmax;
+        margin-left: 75.4vmax;
+        border: solid black 1px;
+        left: -60vmax;
+    }
+    
+    .logoImg{
+        width: 27vmax;
+        padding-top: 2vmax;
+        padding-left: 1vmax;
+        transition: all 0.1s linear;
+    }
+    
+    .logoImg:hover{
+        transform: scale(1.03);
+    }
+    
+    .cell{
+        position: absolute;
+        width: 43vmax;
+        height: 51.1vmax;
+        background-color: rgb(255, 255, 255);
+        margin-top: -53vmax;
+        margin-left: 1.5vmax;
+        border: solid black 0.5px;
+    }
+    
+    .cellImg{
+        width: 43vmax;
+
+    }
+    
+    
+    button{
+        width: 100px;
+        height: 30px;
+        border: 0;
+        outline: 0;
+        left: -60vmax;
+        margin-top: -70vmax;
+    }
+    
+    .pay{
+        width: 12.4vmax;
+        transition: all 0.1s linear;
+        margin-top: 0.3vmax;
+    }
+    
+    .pay:hover{
+        transform: scale(1.1);
+    }
+    
+    
+    #btn_toggle{
+        font-size:2vmax;
+        background-color:#000000;
+        color:#fff;
+        font-weight:bold;
+        width: 13.9vmax;
+        height: 14vmax;
+        position: absolute;
+        margin-top: -67vmax;
+        margin-left: 61.5vmax;
+    }
+    
+    
+    #receipt{
+        font-size:14px;
+        color: #666;
+        width: 30vmax;
+        position: absolute;
+        margin-top: -90vmax;
+        margin-left: 8.2vmax;
+        background-color: rgb(255, 255, 255);
+        border: solid black 1px;
+    
+    }
+    
+    .re{
+        width: 30vmax;
+    }
+    
+    
+    .other{
+        position: absolute;
+        width: 43.15vmax;
+        height: 8vmax;
+        margin-top: -1.8vmax;
+        margin-left: 1.5vmax;
+        overflow: hidden;
+        background-color: rgb(255, 255, 255);
+    
+    }
+    
+    .otherImg{
+        width: 43.2vmax;
+        transition: all 0.1s linear;
+    }
+    
+    .otherImg:hover{
+        transform: scale(1.015);
+    }
+}
