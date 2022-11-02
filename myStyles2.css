@@ -1,27 +1,79 @@
 
 
 body{
-    background-color: #fff000;
+    background-color: #f0ea39;
     display: flex;
     justify-content: center;
 }
 
+
+
+
+#text{
+    position: absolute;
+
+}
+
+.title{
+    font-family: 'DotGothic16', sans-serif;    
+    font-weight: 700;
+    position: relative;
+    padding-right: 16vmax;
+
+    font-size: 1.5vmax;
+    padding-top: 3vmax;
+    width: 10vmax;
+    float: left;
+}
+
+.titleK{
+
+    width: 15vmax;
+}
+
+.title .titleE{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 300;
+    width: 15vmax;
+
+}
+
+
+.ex{
+
+    position: relative;
+    float: left;
+    padding-top: 3vmax;
+    font-family: 'DotGothic16', sans-serif;   
+    line-height: 130%;
+    font-weight: 700;
+    font-size: 1.5vmax;
+    width: 63vmax;
+    height: 18vmax;
+}
+
+
 #first{
     position: absolute;
+    margin-top: 21vmax;
+
+    height: 17.4vmax;
+    width: 88vmax;
 }
 
 
 
 .firstA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
 
     float: left;
     position: relative;
+
 }
 
 .safe01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -29,7 +81,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -40,15 +92,16 @@ body{
 
 
 .firstB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
 
     float: left;
     position: relative;
+
 }
 
 .alone01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -56,7 +109,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -66,16 +119,17 @@ body{
 
 
 .firstC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
 
     float: left;
     position: relative;
+
 }
 
 
 .white01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -83,7 +137,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -93,8 +147,8 @@ body{
 
 
 .firstD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
 
     float: left;
     position: relative;
@@ -102,7 +156,7 @@ body{
 
 
 .rest01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -110,7 +164,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -122,21 +176,24 @@ body{
 
 #second{
     position: absolute;
-    margin-top: 15.8vmax;
+    margin-top: 38.4vmax;
+
+    height: 17.4vmax;
+    width: 88vmax;
 }
 
 
 
 .secondA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .youMe01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -144,7 +201,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -155,14 +212,14 @@ body{
 
 
 .secondB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .payBack01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -170,7 +227,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -180,15 +237,15 @@ body{
 
 
 .secondC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .run01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -196,7 +253,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -206,15 +263,15 @@ body{
 
 
 .secondD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .magic01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -222,7 +279,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -234,21 +291,22 @@ body{
 
 #third{
     position: absolute;
-    margin-top: 31.6vmax;
+    margin-top: 55.8vmax;
+
 }
 
 
 
 .thirdA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .reading01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -256,7 +314,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -267,14 +325,14 @@ body{
 
 
 .thirdB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .noReset01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -282,7 +340,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -292,15 +350,15 @@ body{
 
 
 .thirdC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .romance01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -308,7 +366,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -318,15 +376,15 @@ body{
 
 
 .thirdD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .stretch01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -334,7 +392,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -346,21 +404,21 @@ body{
 
 #forth{
     position: absolute;
-    margin-top: 47.4vmax;
+    margin-top: 73.2vmax;
 }
 
 
 
 .forthA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .cyber01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -368,7 +426,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -379,14 +437,14 @@ body{
 
 
 .forthB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .cant01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -394,7 +452,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -404,15 +462,15 @@ body{
 
 
 .forthC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .seoul01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -420,7 +478,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -430,15 +488,15 @@ body{
 
 
 .forthD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .narciss01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -446,7 +504,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -458,21 +516,21 @@ body{
 
 #fifth{
     position: absolute;
-    margin-top: 63.2vmax;
+    margin-top: 90.6vmax;
 }
 
 
 
 .fifthA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .gaslight01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -480,7 +538,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -491,14 +549,14 @@ body{
 
 
 .fifthB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .yellow01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -506,7 +564,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -516,15 +574,15 @@ body{
 
 
 .fifthC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .house01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -532,7 +590,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -542,15 +600,15 @@ body{
 
 
 .fifthD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .pock01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -558,7 +616,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -569,21 +627,21 @@ body{
 
 #sixth{
     position: absolute;
-    margin-top: 79vmax;
+    margin-top: 108vmax;
 }
 
 
 
 .sixthA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .comeOut01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -591,7 +649,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -602,14 +660,14 @@ body{
 
 
 .sixthB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .meaLog01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -617,7 +675,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -627,15 +685,15 @@ body{
 
 
 .sixthC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .A01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -643,7 +701,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -653,15 +711,15 @@ body{
 
 
 .sixthD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .bus01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -669,7 +727,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -680,21 +738,21 @@ body{
 
 #seventh{
     position: absolute;
-    margin-top: 94.8vmax;
+    margin-top: 125.4vmax;
 }
 
 
 
 .seventhA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .power01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -702,7 +760,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -713,14 +771,14 @@ body{
 
 
 .seventhB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .gender01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -728,7 +786,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -738,15 +796,15 @@ body{
 
 
 .seventhC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .never01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -754,7 +812,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -764,15 +822,15 @@ body{
 
 
 .seventhD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .crayon01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -780,7 +838,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -792,21 +850,21 @@ body{
 
 #eighth{
     position: absolute;
-    margin-top: 110.6vmax;
+    margin-top: 142.8vmax;
 }
 
 
 
 .eighthA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .x01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -814,7 +872,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -825,14 +883,14 @@ body{
 
 
 .eighthB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .circle01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -840,7 +898,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -850,15 +908,15 @@ body{
 
 
 .eighthC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .breaking01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -866,7 +924,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -876,15 +934,15 @@ body{
 
 
 .eighthD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .ready01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -892,7 +950,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -905,21 +963,21 @@ body{
 
 #ninth{
     position: absolute;
-    margin-top: 126.4vmax;
+    margin-top: 160.2vmax;
 }
 
 
 
 .ninthA{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .new01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -927,7 +985,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -938,14 +996,14 @@ body{
 
 
 .ninthB{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 .pregnant01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -953,7 +1011,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -963,15 +1021,15 @@ body{
 
 
 .ninthC{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .bet01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -979,7 +1037,7 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
@@ -989,15 +1047,15 @@ body{
 
 
 .ninthD{
-    width: 20vmax;
-    height: 15.8vmax;
+    width: 22vmax;
+    height: 17.4vmax;
     float: left;
     position: relative;
 }
 
 
 .logo01{
-    width: 20vmax;
+    width: 22vmax;
 }
 
 
@@ -1005,13 +1063,27 @@ body{
 
     position: absolute;
     display: none;
-    width: 20vmax;
+    width: 22vmax;
     top: -0.001vmax;
 }
 
 .ninthD:hover .logo02{
     display: block;
 }
+
+#footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    width: 60vmax;
+    height: 12vmax;
+    line-height: 130%;
+    font-size: 2vmax;
+    position: absolute;
+    margin-top: 184vmax;
+    text-align: center;
+}
+
+
 
 @media (max-width: 480px)
 {
